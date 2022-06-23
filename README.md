@@ -1,6 +1,6 @@
 # MovieApp
 
-movieApp adalah aplikasi informasi film yang berisi data dari public api TMDB, app ini saya buat dalam 24 jam sebagai salah satu test masuk sebuah startup.
+MovieApp adalah aplikasi informasi film yang berisi data dari public api TMDB, app ini saya buat dalam 24 jam sebagai salah satu test masuk sebuah startup.
 
 ## Tool
 
